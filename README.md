@@ -8,7 +8,7 @@ The analysis uses Python along with libraries such as pandas, numpy, matplotlib,
 
 ## 📊 Dataset Information
 
-- **Source**: [Kaggle: Aviation Accident Database](https://www.kaggle.com/khsamaha/aviation-accident-database-synopses)
+- **Source**: [Kaggle: Aviation Accident Database](https://www.kaggle.com/datasets/thedevastator/airplane-crashes-and-fatalities)
 - **Time Span**: Data spans from 1908 to 2009.
 - **Key Columns**:
   - `Date`: Date of the accident.
